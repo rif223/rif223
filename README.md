@@ -24,8 +24,10 @@ Most of what you'll find here started as an experiment. Some of it turned into s
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=rif223&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rif223&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rif223&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rif223&theme=tokyonight" height="180" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=rif223&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
